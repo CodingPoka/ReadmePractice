@@ -1,2 +1,4 @@
-# ReadmePractice
-Here you will learn how to write readme file
+
+
+#heading 1 single hash
+## heading 2 double hash
